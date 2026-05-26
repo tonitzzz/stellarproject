@@ -19,9 +19,7 @@ Coffee farmers in Huehuetenango lose critical operational margins to intermediar
 * Rust v1.75+
 * Soroban CLI installed globally
 
-## Getting Started
 
-### How to Build
 ## Contract ID:CCWLII6KAHKUQ65IZIG4U3LMNZBLT3KYOJ2F5CCY7D6VU3KO5GTY6T4M
 ## Contract Link:https://stellar.expert/explorer/testnet/contract/CCWLII6KAHKUQ65IZIG4U3LMNZBLT3KYOJ2F5CCY7D6VU3KO5GTY6T4M
 
